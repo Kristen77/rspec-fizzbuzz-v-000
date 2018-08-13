@@ -6,12 +6,12 @@ def fizzbuzz(int)
     puts "Fizz"
  elsif int % 5 == 0 
     puts "Buzz"
-    else int % 15 == 0
+    
+ elsif  int % 15 == 0
  puts "BuzzFizz"
  
  fizz_4 = fizzbuzz(4)
-
-   puts 
+   puts nil
 end
 
 end
