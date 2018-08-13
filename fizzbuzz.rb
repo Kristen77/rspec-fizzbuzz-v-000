@@ -3,7 +3,7 @@
 
 def fizzbuzz
   
-  if  
+  if f
     puts "Fizz"
     
 end
