@@ -8,6 +8,8 @@ def fizzbuzz(int)
     puts "Buzz"
     else int % 15 == 0
  puts "BuzzFizz"
+ 
+ 
 end
 
 end
