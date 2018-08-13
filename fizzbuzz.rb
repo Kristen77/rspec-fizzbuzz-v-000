@@ -4,13 +4,14 @@ def fizzbuzz(int)
   
   if  int % 3 == 0
     puts "Fizz"
+ 
  elsif int % 5 == 0 
     puts "Buzz"
     
- elsif  
+ elsif  fizz_15 = fizzbuzz(15)
  puts "BuzzFizz"
  
- fizz_4 = fizzbuzz(4)
+ else fizz_4 = fizzbuzz(4)
    puts nil
 end
 
