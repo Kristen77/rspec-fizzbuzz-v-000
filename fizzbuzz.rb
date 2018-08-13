@@ -5,5 +5,6 @@ def fizzbuzz
     puts "Fizzbuzz"
     elsif (theNumber is divisable by 3)
     puts "Fizz"
-  elsif 
+  elsif (theNumber is divisable by 5)
+  puts 
 end
