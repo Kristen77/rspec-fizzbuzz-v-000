@@ -1,12 +1,12 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
-def fizzbuzz
+def fizzbuzz(int)
   
-  if  fizz_3 = fizzbuzz(3)
+  if  int % 3 == 0
     puts "Fizz"
-    elsif fizz_5 = fizzbuzz(5)
+    elsif int % 5 == 0 
     puts "Buzz"
-    else fizz_15 = fizzbuzz(15)
+    else int % 15 == 0
     puts "BuzzFizz"
 end
 
