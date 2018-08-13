@@ -5,6 +5,8 @@ def fizzbuzz
     puts "Fizz"
     elsif fizz_5 = fizzbuzz(5)
     puts "Buzz"
-  else fizz_15 = fizzbuzz(15)
+    else fizz_15 = fizzbuzz(15)
     puts "BuzzFizz"
+end
+
 end
