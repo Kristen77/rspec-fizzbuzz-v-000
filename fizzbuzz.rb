@@ -7,5 +7,4 @@ def fizzbuzz
     puts "Fizz"
   else (theNumber is divisable by 5)
   puts "Buzz"
-
 end
