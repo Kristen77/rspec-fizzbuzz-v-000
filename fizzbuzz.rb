@@ -3,5 +3,6 @@
 def fizzbuzz
   if (theNumber is divisable by 3) and (theNumber is divisable by 5)
     puts "Fizzbuzz"
-    elsif 
+    elsif (theNumber is divisable by 3)
+    puts 
 end
