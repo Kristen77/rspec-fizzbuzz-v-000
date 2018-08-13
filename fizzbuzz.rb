@@ -3,7 +3,7 @@
 
 def fizzbuzz(int)
   
-  if theNumber / 3
+  
     puts "Fizz"
  
  elsif theNumber /  5
