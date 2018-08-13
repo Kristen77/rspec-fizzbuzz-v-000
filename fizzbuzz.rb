@@ -3,17 +3,9 @@
 
 def fizzbuzz(int)
   
-  
+  if int % 3 == 0 
     puts "Fizz"
- 
- elsif theNumber /  5
-    puts "Buzz"
     
- elsif  theNumber / 15
- puts "BuzzFizz"
- 
- else theNumber / 4
-   puts nil
 end
 
 end
