@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   
-  if  int % 3 == 0
+  if  int 
     puts "Fizz"
  
  elsif fizz_5 = fizzbuzz(5)
