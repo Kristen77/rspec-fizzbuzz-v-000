@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   
-  if  int 
+  if  int fizz_3 = fizzbuzz(3)
     puts "Fizz"
  
  elsif fizz_5 = fizzbuzz(5)
