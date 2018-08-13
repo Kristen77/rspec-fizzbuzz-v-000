@@ -9,7 +9,9 @@ def fizzbuzz(int)
     else int % 15 == 0
  puts "BuzzFizz"
  
- 
+ fizz_4 = fizzbuzz(4)
+
+   puts 
 end
 
 end
