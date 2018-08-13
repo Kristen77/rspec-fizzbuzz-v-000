@@ -2,16 +2,16 @@
 # See README.md for instructions on how to do this
 def fizzbuzz
   
-  if fizz_3 = fizzbuzz(3)
+  if theNumber / 3
     puts "Fizz"
  
- elsif fizz_5 = fizzbuzz(5)
+ elsif theNumber /  5
     puts "Buzz"
     
- elsif  fizz_15 = fizzbuzz(15)
+ elsif  theNumber / 15
  puts "BuzzFizz"
  
- else fizz_4 = fizzbuzz(4)
+ else theNumber / 4
    puts nil
 end
 
