@@ -3,7 +3,7 @@
 def fizzbuzz
   if  fizz_3 = fizzbuzz(3)
     puts "Fizz"
-    elsif fizzbuzz(5)
+    elsif 
     puts "Buzz"
   else fizzbuzz(15)
   puts "FizzBuzz"
